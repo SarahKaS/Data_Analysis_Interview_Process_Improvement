@@ -1,4 +1,4 @@
-# Data_Analysis_Interview_Process_Improvement
+# Data Analysis: Interview Process Improvement
 Evaluate modification in interview process 
 #
 In this analysis, we aim to evaluate a change in the interview process of a company based on its data before and after the change.
